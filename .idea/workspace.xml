@@ -11,22 +11,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2513e5f4-f288-492b-a15e-8f44040b6d12" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/photography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/img9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cover_bg_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img_bg_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loc.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/photography.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599389720008</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1599390471698</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599390471698</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,9 +126,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1599389724133">
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1599390476542">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599389724133" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599390476542" />
+    <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1599392447695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="73" width="587" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1599392447695" />
   </component>
 </project>
