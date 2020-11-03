@@ -1,1 +1,1 @@
-# omsekharchenchugalla.github.io
+# omsekharchenchugalla.com
