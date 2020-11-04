@@ -11,21 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2513e5f4-f288-492b-a15e-8f44040b6d12" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/images/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/omsekharchenchugalla.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photography.html" beforeDir="false" afterPath="$PROJECT_DIR$/photography.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -119,6 +110,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
